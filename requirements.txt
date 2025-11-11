@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+# Core Dependencies
+streamlit==1.29.0
+pandas==2.1.3
+numpy==1.26.2
+pillow==10.1.0
+
+# Machine Learning
+scikit-learn==1.3.2
+tensorflow==2.15.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: For production deployment
+=======
+# Core Dependencies
+streamlit==1.29.0
+pandas==2.1.3
+numpy==1.26.2
+pillow==10.1.0
+
+# Machine Learning
+scikit-learn==1.3.2
+tensorflow==2.15.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: For production deployment
+>>>>>>> f8020b9cda9abc7043eb62e00f483d48837e0e8e
+streamlit-option-menu==0.3.6

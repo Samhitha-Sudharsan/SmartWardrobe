@@ -1,0 +1,8 @@
+echo "venv/
+env/
+data/
+models/
+__pycache__/
+*.pkl
+*.joblib
+.streamlit/" > .gitignore
